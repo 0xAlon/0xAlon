@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **0xAlon/0xAlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Alon Teplitsky</h1>
+
+<p align="center"><img src="https://github.com/0xAlon/0xAlon/blob/main/avatar.png?raw=true" width="420" height="420" alt=""/></p>
