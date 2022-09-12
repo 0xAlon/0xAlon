@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alon Teplitsky</h1>
 
-<p align="center"><img src="https://github.com/0xAlon/0xAlon/blob/main/avatar.png?raw=true" width="420" height="420" alt=""/></p>
+<p align="center"><img src="https://github.com/0xAlon/0xAlon/blob/main/avatar.png?raw=true" width="200" height="200" alt=""/></p>
